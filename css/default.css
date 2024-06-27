@@ -1,3 +1,4 @@
+/*class usada para mexer no tamanho e lagura da página*/
 .container {
     width: 100%;
     height: 98%;
@@ -32,10 +33,12 @@
     font-size: xxx-large;
 
 }
+/*lass para mexer na altura e cor no menu*/
 .menu ul li {
     height: 30px;
     color: #fcf1b7;
 }
+/*class usada para mexer no tamanho e cor do rodapé*/
 .footer {
     background-color: rgb(90, 20, 2);
     width: 1905px;
