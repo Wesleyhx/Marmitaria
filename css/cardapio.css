@@ -48,7 +48,7 @@
     font-size: x-large;
     color: white;
     margin-left: 280px;
-    margin-top: 10px;  
+    margin-top: 0px;  
 }
 
 /*class usada para colocar o título tradicional*/
@@ -56,7 +56,7 @@
     font-size: x-large;
     color: white;
     margin-left: -55px;
-    margin-top: -244px;
+    margin-top: -240px;
 }
 
 /*class usada para a descrição gourmet*/
@@ -96,7 +96,7 @@
     font-size: x-large;
     color: white;
     margin-left: 263px;
-    margin-top: -215px;  
+    margin-top: -219px;  
 }
 
 /*class usada para colocar o título bebidas*/
