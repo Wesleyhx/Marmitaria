@@ -32,7 +32,7 @@
     font-size: x-large;
     color: white;
     margin-left: 290px;
-    margin-top: 15px;
+    margin-top: 5px;
 }
 
 /*class usada para colocar o título fitness*/
@@ -48,7 +48,7 @@
     font-size: x-large;
     color: white;
     margin-left: 280px;
-    margin-top: 20px;  
+    margin-top: 10px;  
 }
 
 /*class usada para colocar o título tradicional*/
@@ -96,7 +96,7 @@
     font-size: x-large;
     color: white;
     margin-left: 263px;
-    margin-top: -200px;  
+    margin-top: -215px;  
 }
 
 /*class usada para colocar o título bebidas*/
