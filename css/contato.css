@@ -1,0 +1,150 @@
+.principal{
+    height: 30px;
+    color: #fcf1b7;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: -300px;
+    margin: 14px 58px;
+}
+.section{
+    background-color: #fcf1b7;
+    width: 1945px;
+    height: 670px;
+    position: relative;
+}
+.aside{
+    background-color: #5a1402;
+    width: 50px;
+    height: auto;
+    margin-left: 20px;
+    position: absolute;
+    font-size: x-large;
+    color: #815d38;
+}
+.field{
+    padding: 35px;
+    margin-top: -655px;
+    margin-left: 55px;
+    border-color: #5a1402;
+}
+.tit1{
+    margin-left: 1384px;
+    margin-top: -570px;
+}
+.tit2{
+    margin-left: 810px;
+    margin-top: -70px;
+}
+.loc1{
+    width: 200px;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 1385px;
+    position: absolute;
+}
+.loc2{
+    width: 200px;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 1630px;
+    position: absolute;
+}
+.loc3{
+    width: 200px;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 1142px;
+    position: absolute;
+}
+.loc4{
+    width: 200px;
+    height: auto;
+    margin-top: 260px;
+    margin-left: 1145px;
+    position: absolute;
+}
+.loc5{
+    width: 200px;
+    height: auto;
+    margin-top: 260px;
+    margin-left: 1385px;
+    position: absolute;
+}
+.loc6{
+    width: 200px;
+    height: auto;
+    margin-top: 262px;
+    margin-left: 1630px;
+    position: absolute;
+}
+.l1{
+    margin-top: 205px;
+    margin-left: 1700px;
+}
+.l2{
+    margin-top: -60px;
+    margin-left: 1436px;
+}
+.l3{
+    margin-top: -60px;
+    margin-left: 1200px;
+}
+.l4{
+    margin-top: 162px;
+    margin-left: 1678px;
+}
+.l5{
+    margin-top: -60px;
+    margin-left: 1430px;
+}
+.l6{
+    margin-top: -60px;
+    margin-left: 1200px;;
+}
+.insta{
+    width: 180px;
+    height: auto;
+    margin-top: -380px;
+    margin-left: 615px;
+    border-radius: 40px;
+    position: absolute;
+}
+.tit_insta{
+    margin-top: -185px;
+    margin-left: 600px;
+    position: absolute;
+    text-decoration: none;
+    display: inline-flex;
+}
+.whatsapp{
+    width: 200px;
+    height: auto;
+    margin-top: -390px;
+    margin-left: 855px;
+    position: absolute;
+ 
+}
+.tit_wpp{
+    margin-top: -185px;
+    margin-left: 895px;
+    position: absolute;
+    text-decoration: none;
+    display: inline-flex;
+}
+.tit_insta, .tit_wpp{
+    color: #815d38;
+}
+.footer {
+    background-color: rgb(90, 20, 2);
+    color: #fcf1b7;
+    width: 1908px;
+    height: 50px;
+    padding: 20px;
+    position: absolute;
+    margin-left: -21px;
+    text-align: center;
+    font-size: x-large;
+}

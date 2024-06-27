@@ -1,0 +1,66 @@
+.principal{
+    height: 30px;
+    color: #fcf1b7;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: -300px;
+    margin: 14px 58px;
+}
+.section{
+    background-color: #fcf1b7;
+    width: 1945px;
+    height: 539px;
+    position: relative;
+}
+.par1{
+    width: 420px;
+    height: auto;
+    margin-top: -415px;
+    margin-left: 325px;
+    position: relative
+}
+.par2{
+    width: 420px;
+    height: auto;
+    margin-top: 25px;
+    margin-left: 323px;
+    position: relative;
+}
+.par3{
+    width: 895px;
+    height: auto;
+    margin-top: 85px;
+    margin-left: 490px;
+    position: relative;
+}
+.aside{
+    width: 50px;
+    height: auto;
+    margin-left: 20px;
+    position: relative;
+    font-size: x-large;
+    color: #382511;
+}
+.restaurante{
+    width: 510px;
+    height: auto;
+    opacity: 100%;
+    right: 355px;
+    top: 75px;
+    position: absolute;
+}
+.footer {
+    background-color: rgb(90, 20, 2);
+    color: #fcf1b7;
+    width: 1908px;
+    height: 50px;
+    padding: 20px;
+    position: relative;
+    margin-left: -21px;
+    top: 13px;
+    text-align: center;
+    font-size: x-large;
+}
